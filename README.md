@@ -1,6 +1,6 @@
 # Welcome to Azure PowerShell Scripts
 
-Powerful scripts for use Azure's cloud funcionalities
+Simple scripts for devops maintenance in Azure's cloud
 
 
 ## Backup and restore webapp from different subscriptions
